@@ -1,3 +1,5 @@
+package KATA_3;
+
 public class EmpleadoPlanta extends Empleado {
     private double sueldoBase;
 

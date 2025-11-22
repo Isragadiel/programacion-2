@@ -1,3 +1,5 @@
+package KATA_4;
+
 public class Perro extends Animal {
     @Override
     public void hacerSonido() {

@@ -1,3 +1,5 @@
+package KATA_3;
+
 import java.util.ArrayList;
 
 public class MainEmpleados {

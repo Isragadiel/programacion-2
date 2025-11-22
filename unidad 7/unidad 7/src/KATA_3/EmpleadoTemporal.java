@@ -1,3 +1,5 @@
+package KATA_3;
+
 public class EmpleadoTemporal extends Empleado {
     private int horas;
     private double valorHora;

@@ -1,3 +1,5 @@
+package KATA_4;
+
 public class MainAnimales {
     public static void main(String[] args) {
         Animal[] animales = {
